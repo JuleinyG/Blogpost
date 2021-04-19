@@ -60,9 +60,19 @@
     }
 }
 
-@media (max-width: 300px){
+@media (max-width: 360px){
     footer{
         width: 100%;
     }
 
+    .home-main .home-container{
+        margin-top: 50px;
+    }
+
+    .home-main .title-container{
+        font-size: 30px;
+    }
+    .home-main .buttom-container{
+        font-size:20px ;
+    }
 }
